@@ -43,3 +43,9 @@ Dependencies
 - python
 - numpy
 
+
+Usage
+-----
+
+    $ python fwdsimhack1209.py -h
+
