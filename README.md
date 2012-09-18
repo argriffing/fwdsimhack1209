@@ -36,3 +36,10 @@ Other limitations
 - slow algorithm
 - slow implementation
 
+
+Dependencies
+------------
+
+- python
+- numpy
+
