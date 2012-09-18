@@ -334,7 +334,7 @@ class Sim:
 def main(args):
     N_hap = args.haploid_population_size
     s = args.scaled_selection / N_hap
-    fitnesses = [1, 1-s, 1-s, 1]
+    fitnesses = [1.0, 1.0 - s, 1.0 - s, 1.0]
     sim = Sim(
             N_hap,
             args.mutation_rate,
