@@ -40,8 +40,8 @@ Other limitations
 Dependencies
 ------------
 
-- python
-- numpy
+- [Python 2.7+](http://python.org/)
+- [NumPy 1.6+](http://numpy.scipy.org/)
 
 
 Usage
